@@ -1,6 +1,6 @@
 # wx2
 
-> A Vue.js project
+> 微信公众号管理系统
 
 ## Build Setup
 
